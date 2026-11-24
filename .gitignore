@@ -1,0 +1,21 @@
+# DuckDB database files: rebuild them from data/raw, never commit them
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# dbt (from Episode 3)
+target/
+dbt_packages/
+logs/
+
+# OS clutter
+.DS_Store
+Thumbs.db
