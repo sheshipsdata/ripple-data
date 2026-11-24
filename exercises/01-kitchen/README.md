@@ -108,10 +108,7 @@ A **codespace** is a computer in the cloud that you use through your web browser
    - **Middle:** where files open when you click them. The project README opens here automatically.
    - **Bottom:** the **terminal**. This is where you'll type commands.
 
-**Wait for setup to finish.** The first time, the codespace keeps installing DuckDB for another minute or two after the editor appears. You'll see text scrolling in the terminal. It's done when the terminal shows five row counts and **✅ Ripple is ready**.
-
-- If the terminal then says **press any key to close the terminal**, click inside it and press any key.
-- If no terminal is open at all, open one: click the menu icon (three lines, top left), then **Terminal**, then **New Terminal**.
+**Find your terminal.** It's the panel along the bottom. If you don't see one, click the menu icon (three lines, top left), then **Terminal**, then **New Terminal**.
 
 When the terminal is ready for you, the last line looks something like this:
 
@@ -120,6 +117,9 @@ When the terminal is ready for you, the last line looks something like this:
 ```
 
 That's the **prompt**. It means the terminal is waiting for you to type. The `$` at the end is where your typing goes.
+
+> [!NOTE]
+> **The first time, DuckDB is still installing in the background.** You won't see it happen; the prompt appears right away. It takes a minute or two. If a DuckDB command below says **command not found**, that's why: wait a minute and try again.
 
 **Pop-ups you can ignore:** small boxes in the bottom right corner about extensions, Git or settings are normal. Close them with the **×**. If one asks whether to open the codespace in the **Visual Studio Code app**, stay in the browser.
 
@@ -135,7 +135,9 @@ duckdb --version
 
 Each should print a version number, like `git version 2.x.x` and `v1.x.x`. Any version number is fine.
 
-If `duckdb --version` says **command not found**, setup may still be running. Wait one minute, close the terminal (trash can icon on the terminal's top edge), open a new one and try again.
+If `duckdb --version` says **command not found**, setup is probably still running. Wait one minute, close the terminal (trash can icon on the terminal's top edge), open a new one and try again.
+
+Still not working after 5 minutes? See what the setup did: press **Ctrl + Shift + P** (Cmd + Shift + P on a Mac), type `creation log`, and choose **Codespaces: View Creation Log**. Copy the last 20 lines and post them in the YouTube comments.
 
 **Coming back later (every time after the first):**
 
