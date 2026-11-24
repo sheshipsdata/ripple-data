@@ -16,6 +16,8 @@
 
 > [!TIP]
 > **If you get stuck, that's normal.** Every engineer you admire has typed the wrong command hundreds of times. Check the [Troubleshooting](#troubleshooting) section at the bottom, and post your question in the YouTube comments with the exact error message.
+>
+> 📚 The [Ripple wiki](https://github.com/sheshipsdata/ripple-data/wiki) has more help: [Using Codespaces](https://github.com/sheshipsdata/ripple-data/wiki/Using-Codespaces), [Saving Your Work](https://github.com/sheshipsdata/ripple-data/wiki/Saving-Your-Work), a [Glossary](https://github.com/sheshipsdata/ripple-data/wiki/Glossary) and an [FAQ](https://github.com/sheshipsdata/ripple-data/wiki/FAQ).
 
 ## Part 0: Words you'll see
 
@@ -47,14 +49,35 @@ Already have an account? Sign in and skip to Step 1.2.
 
 ### Step 1.2: Make your own copy of the Ripple repo
 
-1. Open the Ripple repo: [github.com/sheshipsdata/ripple-data](https://github.com/sheshipsdata/ripple-data) (also in the video description).
-2. Near the top right, click the green **Use this template** button, then **Create a new repository**.
-3. Under **Owner**, make sure your username is selected.
-4. For **Repository name**, type `ripple-data`.
-5. Choose **Public** (so you can share your work) or **Private** (only you can see it). Either is fine.
-6. Click **Create repository**.
+The Ripple repo is a **template**: a starter project you copy, not edit. Your copy belongs to you, so you can save your work to it without touching the original that everyone else copies.
 
-You now have your own copy at `github.com/YOUR-USERNAME/ripple-data`. This is where your work gets saved, so you never change the original.
+1. Make sure you're **signed in** to GitHub. You'll see your profile picture in the top right corner.
+2. Open the Ripple repo: [github.com/sheshipsdata/ripple-data](https://github.com/sheshipsdata/ripple-data) (also in the video description).
+3. Find the green **Use this template** button. It's near the top right, just above the list of files. On a narrow screen, it may be below the repo name instead.
+4. Click **Use this template**. A small menu drops down with two choices. Click **Create a new repository**.
+
+> [!WARNING]
+> Don't choose **Open in a codespace** from that menu. It opens a workspace that isn't saved to your own repo, so your work has nowhere to go. You'll open Codespaces the right way in Step 1.3.
+
+5. A page called **Create a new repository** opens. Fill it in:
+   - **Owner:** click the dropdown and choose **your own username**. If you belong to any organizations (like a company or school), don't pick those, because Codespaces is only free on your personal account.
+   - **Repository name:** type `ripple-data`.
+   - **Description:** leave it blank, or write something like "My She Ships Data exercises."
+   - **Include all branches:** leave it **unchecked**.
+   - **Public or Private:** choose **Public** (anyone can see it, which is great for your portfolio) or **Private** (only you can see it). Either works.
+6. Click the green **Create repository** button at the bottom.
+7. Wait a few seconds while GitHub copies the files.
+
+**Check that it worked.** You should now be on your new repo's page:
+
+- The top left says **YOUR-USERNAME / ripple-data** (with your username, not `sheshipsdata`).
+- Just under the name, small gray text says **generated from sheshipsdata/ripple-data**.
+- You see the same folders as the original: `.devcontainer`, `data`, `exercises` and a few files.
+
+🎉 This is **your copy**. From now on, always work here, at `github.com/YOUR-USERNAME/ripple-data`. Bookmark it.
+
+> [!TIP]
+> **Lost your copy?** Click your profile picture (top right), then **Your repositories**, then **ripple-data**.
 
 ### Step 1.3: Choose where to work
 
@@ -69,21 +92,36 @@ Pick **one** path: **Option A (Codespaces)**, **Option B (Mac)** or **Option C (
 
 #### ☁️ Option A: Codespaces (recommended)
 
-Codespaces gives you a ready-made computer in your browser with Git, a terminal and DuckDB already installed. Nothing to install on your own machine. GitHub includes free monthly usage for personal accounts, far more than these exercises need.
+A **codespace** is a computer in the cloud that you use through your web browser. It comes with Git, a terminal and DuckDB already installed, so there's nothing to install on your own machine. It works on any computer with a modern browser, including Chromebooks.
 
-1. Go to **your copy** of the repo: `github.com/YOUR-USERNAME/ripple-data`.
-2. Click the green **<> Code** button.
-3. Click the **Codespaces** tab.
-4. Click **Create codespace on main**.
-5. Wait 1–3 minutes while it builds. A code editor opens in your browser.
+**Is it free?** Yes, for these exercises. Free personal GitHub accounts include 120 "core hours" of Codespaces every month. The standard codespace uses 2 cores, so that's about **60 hours a month**, far more than you need. GitHub emails you if you ever get close to the limit.
 
-**What you're looking at:**
+**Open your codespace (first time only):**
 
-- **Left side:** the Explorer, a list of the repo's folders and files.
-- **Middle:** where files open when you click them.
-- **Bottom:** the **terminal**. This is where you'll type commands.
+1. Go to **your copy** of the repo: `github.com/YOUR-USERNAME/ripple-data`. Check the top left: it must show your username, not `sheshipsdata`.
+2. Click the green **<> Code** button, above the list of files.
+3. In the box that opens, click the **Codespaces** tab (next to **Local**).
+4. Click the green **Create codespace on main** button.
+5. A new browser tab opens with a **Setting up your codespace** screen. Wait 1–3 minutes. Don't close the tab.
+6. A code editor appears. It might look busy. Here's what you're looking at:
+   - **Left side:** the Explorer, a list of the repo's folders and files.
+   - **Middle:** where files open when you click them. The project README opens here automatically.
+   - **Bottom:** the **terminal**. This is where you'll type commands.
 
-**Don't see a terminal?** Click the menu icon (three lines, top left), then **Terminal**, then **New Terminal**.
+**Wait for setup to finish.** The first time, the codespace keeps installing DuckDB for another minute or two after the editor appears. You'll see text scrolling in the terminal. It's done when the terminal shows five row counts and **✅ Ripple is ready**.
+
+- If the terminal then says **press any key to close the terminal**, click inside it and press any key.
+- If no terminal is open at all, open one: click the menu icon (three lines, top left), then **Terminal**, then **New Terminal**.
+
+When the terminal is ready for you, the last line looks something like this:
+
+```text
+@your-username ➜ /workspaces/ripple-data (main) $
+```
+
+That's the **prompt**. It means the terminal is waiting for you to type. The `$` at the end is where your typing goes.
+
+**Pop-ups you can ignore:** small boxes in the bottom right corner about extensions, Git or settings are normal. Close them with the **×**. If one asks whether to open the codespace in the **Visual Studio Code app**, stay in the browser.
 
 **Check that everything is ready.** Click inside the terminal, then type each command and press Enter:
 
@@ -95,9 +133,23 @@ git --version
 duckdb --version
 ```
 
-Each should print a version number, like `git version 2.x.x`. Any version number is fine.
+Each should print a version number, like `git version 2.x.x` and `v1.x.x`. Any version number is fine.
 
-**Saving your hours:** a codespace stops itself after a period of inactivity. To stop it yourself, go to [github.com/codespaces](https://github.com/codespaces), click the **…** next to your codespace and choose **Stop codespace**. To come back later, open the same page and click your codespace's name. Your files are still there.
+If `duckdb --version` says **command not found**, setup may still be running. Wait one minute, close the terminal (trash can icon on the terminal's top edge), open a new one and try again.
+
+**Coming back later (every time after the first):**
+
+1. Go to [github.com/codespaces](https://github.com/codespaces).
+2. Find your codespace in the list (its name is random, like `fluffy-space-waddle`, with `ripple-data` underneath) and click it.
+3. Your files and your work are exactly where you left them.
+
+> [!IMPORTANT]
+> **Reopen your existing codespace. Don't create a new one each time.** Each new codespace starts from a fresh copy and uses your free storage. One codespace is all you need for the whole season.
+
+**Saving your free hours:** a codespace stops itself after about 30 minutes without activity, so closing the browser tab is enough. To stop it right away, go to [github.com/codespaces](https://github.com/codespaces), click the **…** next to your codespace and choose **Stop codespace**. Stopping doesn't delete anything.
+
+> [!WARNING]
+> **Push your work at the end of every exercise** (Part 6 shows you how). GitHub deletes a codespace you haven't opened in about 30 days. Anything you pushed is safe in your repo, and you can create a fresh codespace from it. Anything you didn't push is gone.
 
 ✅ **Done?** Skip to [Part 2](#part-2-terminal-survival-kit).
 
@@ -554,5 +606,10 @@ Post your pipeline sketch or ghost row theory in the YouTube comments. Bonus poi
 | `Permission denied` or `403` when pushing | You're trying to push to the original Ripple repo, not your copy | Make sure you used **Use this template** (Step 1.2) and are working in `YOUR-USERNAME/ripple-data`. |
 | `nothing to commit, working tree clean` | Git doesn't see changes | Make sure you saved the notes file, then run `git status` again. |
 | My codespace disappeared | It stopped to save your free hours | Go to [github.com/codespaces](https://github.com/codespaces) and click its name to reopen it. |
+| My codespace isn't listed at [github.com/codespaces](https://github.com/codespaces) | It was deleted after about 30 days unused | Go to your copy of the repo and create a new codespace (Option A, steps 2–4). Everything you pushed is still there. |
+| I can't find **Use this template** | You're signed out, or you're on your own copy | Sign in, then open [github.com/sheshipsdata/ripple-data](https://github.com/sheshipsdata/ripple-data). The button only appears on the original. |
+| The top left of my repo says `sheshipsdata/ripple-data` | You're on the original, not your copy | Go to your copy: click your profile picture, **Your repositories**, then **ripple-data**. |
+| I already have a repo named `ripple-data` | You made a copy before | Use that copy, or name the new one `ripple-data-2`. |
+| Codespaces says you've used your included usage, or asks for payment | You created the copy under an organization, or used up your monthly hours | Make the copy under your personal username (Step 1.2). Delete codespaces you don't use at [github.com/codespaces](https://github.com/codespaces). Your hours reset every month. |
 
 > 📘 **Want the full walkthrough?** The Season 1 Workbook has step-by-step solutions for every exercise, the reasoning behind each answer, common mistakes and bonus challenges.

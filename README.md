@@ -9,6 +9,8 @@ This repo holds Ripple's raw data and the **She Ships Data** companion exercises
 1. Click **Use this template**, then **Create a new repository**, to make your own copy. Don't work in this original repo.
 2. Open [Exercise 1](exercises/01-kitchen/) and follow it step by step. It walks you through everything, including setup.
 
+📚 **New to GitHub or Codespaces?** The [wiki](https://github.com/sheshipsdata/ripple-data/wiki) has a click-by-click [Getting Started](https://github.com/sheshipsdata/ripple-data/wiki/Getting-Started) guide, plus [Troubleshooting](https://github.com/sheshipsdata/ripple-data/wiki/Troubleshooting), a [Glossary](https://github.com/sheshipsdata/ripple-data/wiki/Glossary) and an [FAQ](https://github.com/sheshipsdata/ripple-data/wiki/FAQ).
+
 ## Exercises
 
 | # | Episode | Exercise | Walkthrough |
