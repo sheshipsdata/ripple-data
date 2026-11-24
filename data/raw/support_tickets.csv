@@ -1,0 +1,641 @@
+ticket_id,customer_id,order_id,created_at,category,subject,status
+7496,2415,1047,2021-07-22 11:00:00,shipping,where is my box,closed
+7401,1612,1045,2021-07-27 13:26:00,shipping,delivered to wrong address,closed
+7300,2415,,2021-08-20 12:21:00,shipping,delivered to wrong address,closed
+7350,2635,1109,2021-09-27 12:16:00,cancellation,please cancel my subscription,closed
+7557,1718,,2021-10-11 16:12:00,cancellation,how do I cancel??,closed
+7047,2415,1149,2021-10-23 13:24:00,damaged_item,box was crushed,closed
+7474,1912,1192,2021-11-14 16:09:00,damaged_item,journal cover torn,closed
+7617,1081,1196,2021-11-25 15:39:00,cancellation,how do I cancel??,pending
+7382,2807,,2021-12-12 10:55:00,cancellation,cancel my box,closed
+7001,1294,,2021-12-25 16:37:00,billing,wrong amount charged,closed
+7478,3107,1278,2022-01-04 22:32:00,cancellation,how do I cancel??,open
+7241,2407,1282,2022-01-12 10:41:00,damaged_item,serum leaked everywhere,closed
+7370,1016,1336,2022-01-22 08:00:00,cancellation,cancel my box,open
+7048,2877,1378,2022-02-14 16:45:00,shipping,delivered to wrong address,closed
+7173,1798,1362,2022-02-14 17:47:00,billing,refund still not showing,closed
+7152,3217,1437,2022-03-19 11:23:00,cancellation,pause or cancel subscription,open
+7245,2655,,2022-03-23 22:21:00,other,can I change my scent preference,open
+7117,2362,1462,2022-03-24 09:18:00,shipping,tracking hasn't updated in a week,pending
+7396,2534,1579,2022-05-06 13:33:00,billing,wrong amount charged,closed
+7298,2407,1574,2022-05-08 13:28:00,cancellation,please cancel my subscription,closed
+7531,2135,,2022-05-12 12:39:00,billing,wrong amount charged,pending
+7426,2135,,2022-05-19 11:12:00,shipping,where is my box,closed
+7380,2687,1610,2022-05-20 14:59:00,damaged_item,candle arrived in four pieces,closed
+7629,1047,1628,2022-05-27 14:06:00,cancellation,how do I cancel??,open
+7428,2282,1678,2022-06-05 16:27:00,shipping,where is my box,closed
+7114,1148,1697,2022-06-15 16:48:00,billing,discount code didn't apply,closed
+7265,1985,,2022-06-16 19:19:00,shipping,where is my box,closed
+7320,3043,1702,2022-06-16 20:15:00,billing,discount code didn't apply,closed
+7572,2652,,2022-07-03 13:42:00,cancellation,how do I cancel??,closed
+7357,1642,1763,2022-07-04 16:00:00,damaged_item,serum leaked everywhere,open
+7289,1538,1832,2022-07-20 21:28:00,cancellation,how do I cancel??,closed
+7466,3115,1860,2022-07-21 13:20:00,damaged_item,serum leaked everywhere,closed
+7238,3025,1900,2022-08-07 22:20:00,damaged_item,journal cover torn,closed
+7006,3360,1922,2022-08-11 11:43:00,shipping,tracking hasn't updated in a week,closed
+7073,1148,,2022-08-15 12:53:00,other,love this month's box!,closed
+7233,1075,,2022-08-20 16:04:00,cancellation,cancel my box,closed
+7210,1202,1967,2022-08-22 12:36:00,shipping,where is my box,closed
+7086,1642,2007,2022-08-26 14:26:00,damaged_item,candle arrived in four pieces,closed
+7150,3400,,2022-08-30 20:54:00,other,love this month's box!,open
+7217,1351,,2022-09-03 16:02:00,other,gift a box to a friend?,open
+7472,2760,2026,2022-09-03 18:19:00,shipping,delivered to wrong address,closed
+7555,1797,2041,2022-09-03 22:19:00,billing,discount code didn't apply,closed
+7437,1531,2022,2022-09-07 10:18:00,cancellation,cancel my box,closed
+7602,2182,,2022-09-11 11:45:00,cancellation,cancel my box,closed
+7057,3360,2187,2022-10-12 13:22:00,damaged_item,box was crushed,closed
+7542,2897,2224,2022-10-13 14:19:00,shipping,where is my box,pending
+7554,2152,2194,2022-10-13 17:52:00,shipping,tracking hasn't updated in a week,open
+7393,2508,,2022-10-16 21:36:00,shipping,tracking hasn't updated in a week,pending
+7162,3115,2259,2022-10-20 08:36:00,billing,charged twice??,open
+7284,1985,2233,2022-10-24 15:41:00,damaged_item,journal cover torn,closed
+7339,3049,2306,2022-10-31 21:28:00,cancellation,cancel my box,closed
+7125,2814,2275,2022-11-02 14:11:00,shipping,tracking hasn't updated in a week,open
+7156,2282,2327,2022-11-10 17:08:00,cancellation,how do I cancel??,closed
+7293,3407,,2022-11-14 20:24:00,other,can I change my scent preference,open
+7161,2335,2414,2022-11-16 18:52:00,billing,discount code didn't apply,closed
+7455,2335,2414,2022-11-18 20:49:00,damaged_item,journal cover torn,closed
+7570,2637,2374,2022-11-20 08:03:00,shipping,tracking hasn't updated in a week,closed
+7544,1623,2407,2022-11-21 18:36:00,cancellation,pause or cancel subscription,open
+7307,1530,,2022-11-21 18:55:00,billing,charged twice??,open
+7072,1022,,2022-12-02 09:07:00,damaged_item,box was crushed,closed
+7336,2132,2466,2022-12-02 15:06:00,shipping,tracking hasn't updated in a week,closed
+7116,2135,2516,2022-12-14 15:14:00,damaged_item,serum leaked everywhere,closed
+7619,3292,2555,2022-12-20 17:12:00,cancellation,pause or cancel subscription,closed
+7229,3030,2615,2022-12-29 14:55:00,damaged_item,journal cover torn,closed
+7481,1849,,2022-12-30 18:03:00,billing,charged twice??,closed
+7533,2163,2641,2022-12-31 13:13:00,cancellation,cancel my box,closed
+7622,2170,,2023-01-01 20:24:00,damaged_item,serum leaked everywhere,pending
+7460,2603,2652,2023-01-02 14:11:00,damaged_item,journal cover torn,closed
+7267,1971,2617,2023-01-03 13:12:00,billing,refund still not showing,closed
+7226,2841,2668,2023-01-03 13:28:00,shipping,delivered to wrong address,closed
+7548,2627,2701,2023-01-11 13:07:00,shipping,tracking hasn't updated in a week,open
+7143,2897,,2023-01-11 15:08:00,shipping,where is my box,closed
+7585,2503,2713,2023-01-14 10:03:00,damaged_item,box was crushed,closed
+7561,1785,,2023-01-15 09:55:00,cancellation,please cancel my subscription,pending
+7095,1045,2734,2023-01-18 16:13:00,damaged_item,serum leaked everywhere,open
+7070,1453,2790,2023-01-20 15:52:00,damaged_item,serum leaked everywhere,closed
+7272,1045,2734,2023-01-21 19:49:00,cancellation,pause or cancel subscription,closed
+7340,1806,2741,2023-01-22 13:46:00,cancellation,please cancel my subscription,closed
+7014,1189,,2023-01-22 16:28:00,damaged_item,candle arrived in four pieces,closed
+7193,2326,2779,2023-01-22 17:59:00,damaged_item,candle arrived in four pieces,closed
+7262,1236,,2023-01-25 10:39:00,cancellation,cancel my box,closed
+7062,3209,2781,2023-01-25 14:57:00,cancellation,pause or cancel subscription,closed
+7024,2475,2776,2023-01-25 16:35:00,billing,wrong amount charged,closed
+7378,2891,,2023-01-26 08:01:00,other,gift a box to a friend?,open
+7430,2829,,2023-01-27 11:59:00,cancellation,pause or cancel subscription,closed
+7368,1291,2823,2023-01-31 11:08:00,cancellation,cancel my box,open
+7260,2132,2825,2023-01-31 18:59:00,shipping,tracking hasn't updated in a week,pending
+7351,2973,2844,2023-02-03 16:21:00,billing,refund still not showing,closed
+7271,1340,2867,2023-02-06 08:51:00,damaged_item,box was crushed,pending
+7074,1948,2869,2023-02-11 12:43:00,cancellation,cancel my box,closed
+7486,1863,2876,2023-02-13 13:30:00,billing,refund still not showing,closed
+7285,1989,2942,2023-02-16 11:05:00,damaged_item,box was crushed,pending
+7240,1103,,2023-02-24 22:00:00,damaged_item,journal cover torn,pending
+7301,1382,2999,2023-02-25 19:40:00,cancellation,pause or cancel subscription,closed
+7341,2375,3053,2023-03-11 16:36:00,damaged_item,candle arrived in four pieces,pending
+7266,1001,3080,2023-03-13 13:26:00,cancellation,how do I cancel??,closed
+7198,2744,3069,2023-03-15 12:53:00,cancellation,pause or cancel subscription,closed
+7521,2672,3135,2023-03-22 08:25:00,damaged_item,candle arrived in four pieces,closed
+7611,1103,3157,2023-03-25 13:53:00,cancellation,how do I cancel??,pending
+7362,1382,3204,2023-03-27 13:55:00,cancellation,pause or cancel subscription,closed
+7085,2852,3168,2023-03-29 16:03:00,damaged_item,box was crushed,closed
+7017,3206,3246,2023-04-08 19:13:00,cancellation,pause or cancel subscription,closed
+7583,2670,3240,2023-04-09 14:34:00,damaged_item,journal cover torn,closed
+7068,2669,3307,2023-04-09 15:44:00,billing,refund still not showing,closed
+7127,1785,3314,2023-04-14 13:22:00,shipping,delivered to wrong address,closed
+7399,3390,3348,2023-04-21 18:47:00,billing,discount code didn't apply,pending
+7439,2357,,2023-04-23 22:13:00,cancellation,pause or cancel subscription,closed
+7395,1403,3337,2023-04-24 08:56:00,shipping,tracking hasn't updated in a week,closed
+7425,2280,3403,2023-04-24 15:16:00,cancellation,please cancel my subscription,closed
+7328,2032,3371,2023-04-24 18:20:00,billing,refund still not showing,pending
+7469,2279,,2023-04-28 08:00:00,cancellation,please cancel my subscription,closed
+7087,1453,3368,2023-04-29 20:24:00,damaged_item,journal cover torn,closed
+7275,3025,,2023-05-02 13:19:00,cancellation,pause or cancel subscription,closed
+7454,2118,,2023-05-05 17:59:00,cancellation,cancel my box,closed
+7374,3359,,2023-05-09 16:00:00,other,love this month's box!,closed
+7490,2279,3588,2023-05-20 17:28:00,cancellation,cancel my box,closed
+7508,1767,3509,2023-05-20 20:57:00,cancellation,cancel my box,closed
+7137,2421,,2023-05-26 18:39:00,other,gift a box to a friend?,closed
+7505,2543,3636,2023-06-01 17:32:00,billing,refund still not showing,pending
+7189,2319,3708,2023-06-09 14:25:00,billing,charged twice??,closed
+7593,2661,3739,2023-06-17 12:50:00,shipping,where is my box,closed
+7487,3179,3716,2023-06-18 16:46:00,damaged_item,serum leaked everywhere,open
+7369,1596,3812,2023-06-24 14:30:00,cancellation,please cancel my subscription,closed
+7449,2869,,2023-06-26 18:01:00,shipping,delivered to wrong address,pending
+7315,2491,3863,2023-06-29 18:58:00,billing,charged twice??,closed
+7424,1030,3859,2023-07-02 11:25:00,shipping,where is my box,closed
+7461,2675,3933,2023-07-10 10:25:00,shipping,where is my box,closed
+7530,2184,3874,2023-07-10 21:44:00,cancellation,cancel my box,pending
+7056,2937,3905,2023-07-12 12:12:00,billing,charged twice??,closed
+7512,2362,3977,2023-07-18 15:59:00,cancellation,how do I cancel??,closed
+7436,3000,4031,2023-07-19 08:06:00,damaged_item,candle arrived in four pieces,closed
+7187,2337,,2023-07-19 16:00:00,cancellation,pause or cancel subscription,closed
+7037,3261,4055,2023-07-24 19:07:00,damaged_item,box was crushed,closed
+7088,2280,4044,2023-07-28 10:42:00,damaged_item,serum leaked everywhere,closed
+7507,1413,4058,2023-07-31 10:09:00,cancellation,cancel my box,closed
+7264,1531,4075,2023-08-03 08:55:00,cancellation,cancel my box,open
+7055,2375,4124,2023-08-04 09:56:00,cancellation,please cancel my subscription,closed
+7138,2585,,2023-08-04 14:15:00,shipping,where is my box,closed
+7080,2326,4239,2023-08-14 21:50:00,billing,charged twice??,open
+7211,2056,,2023-08-16 22:18:00,other,gift a box to a friend?,closed
+7010,2218,4270,2023-08-22 22:33:00,damaged_item,box was crushed,closed
+7517,3019,4274,2023-08-23 14:26:00,shipping,tracking hasn't updated in a week,closed
+7485,3142,4258,2023-08-24 16:17:00,billing,discount code didn't apply,open
+7215,1790,4318,2023-08-26 08:57:00,damaged_item,journal cover torn,closed
+7263,3032,4257,2023-08-27 17:12:00,cancellation,how do I cancel??,open
+7491,1054,4264,2023-08-28 12:43:00,cancellation,please cancel my subscription,closed
+7628,1363,,2023-08-28 22:54:00,cancellation,cancel my box,closed
+7532,2371,4348,2023-08-29 15:11:00,cancellation,please cancel my subscription,closed
+7529,2561,4294,2023-08-31 20:19:00,cancellation,please cancel my subscription,closed
+7502,1220,,2023-09-04 22:07:00,shipping,tracking hasn't updated in a week,closed
+7372,1340,,2023-09-06 09:58:00,billing,discount code didn't apply,pending
+7122,1097,4432,2023-09-12 17:41:00,billing,refund still not showing,open
+7096,3071,,2023-09-13 18:47:00,cancellation,how do I cancel??,pending
+7416,1700,4481,2023-09-19 13:31:00,cancellation,please cancel my subscription,closed
+7113,3197,4512,2023-09-23 09:45:00,damaged_item,box was crushed,closed
+7071,3197,,2023-09-23 10:26:00,damaged_item,box was crushed,closed
+7302,2373,4652,2023-10-06 21:45:00,cancellation,how do I cancel??,pending
+7003,2666,4637,2023-10-13 16:23:00,cancellation,pause or cancel subscription,closed
+7299,2376,4631,2023-10-15 21:00:00,cancellation,pause or cancel subscription,closed
+7124,1724,,2023-10-17 21:48:00,billing,wrong amount charged,closed
+7251,3215,4871,2023-11-06 22:11:00,billing,refund still not showing,pending
+7433,1257,4874,2023-11-11 17:48:00,cancellation,cancel my box,closed
+7295,1286,4875,2023-11-12 13:14:00,cancellation,how do I cancel??,pending
+7626,2655,4957,2023-11-13 10:09:00,cancellation,pause or cancel subscription,closed
+7601,3390,4954,2023-11-13 18:07:00,billing,discount code didn't apply,closed
+7536,2265,4969,2023-11-19 09:27:00,billing,discount code didn't apply,closed
+7638,3381,,2023-11-19 21:10:00,other,love this month's box!,closed
+7564,2345,,2023-11-20 14:36:00,cancellation,please cancel my subscription,closed
+7519,3211,5012,2023-11-21 11:42:00,damaged_item,serum leaked everywhere,open
+7376,2282,5059,2023-11-25 11:25:00,damaged_item,candle arrived in four pieces,closed
+7476,1364,5060,2023-12-05 13:10:00,damaged_item,box was crushed,closed
+7206,2666,,2023-12-05 19:47:00,shipping,tracking hasn't updated in a week,closed
+7092,1268,5129,2023-12-06 21:39:00,billing,wrong amount charged,closed
+7176,2383,5100,2023-12-07 18:33:00,shipping,tracking hasn't updated in a week,pending
+7467,1781,5118,2023-12-09 10:03:00,billing,discount code didn't apply,closed
+7049,2983,5103,2023-12-09 14:02:00,shipping,tracking hasn't updated in a week,closed
+7258,1268,5129,2023-12-09 15:56:00,billing,wrong amount charged,closed
+7515,1404,,2023-12-14 17:20:00,billing,discount code didn't apply,closed
+7031,1877,,2023-12-15 15:52:00,damaged_item,box was crushed,closed
+7493,1296,5250,2023-12-21 11:37:00,cancellation,cancel my box,closed
+7196,2580,5272,2023-12-23 22:13:00,billing,charged twice??,closed
+7457,1362,5296,2023-12-27 11:44:00,cancellation,please cancel my subscription,open
+7028,1731,,2023-12-29 22:38:00,billing,charged twice??,closed
+7223,2016,,2024-01-03 16:31:00,damaged_item,serum leaked everywhere,closed
+7036,1356,5358,2024-01-06 20:14:00,shipping,delivered to wrong address,closed
+7592,3229,5496,2024-01-18 17:09:00,damaged_item,box was crushed,closed
+7007,2721,5448,2024-01-20 09:07:00,cancellation,pause or cancel subscription,closed
+7591,2951,5561,2024-01-26 19:01:00,shipping,delivered to wrong address,closed
+7590,2768,5580,2024-01-28 11:48:00,damaged_item,serum leaked everywhere,open
+7599,1979,5530,2024-01-30 16:44:00,billing,wrong amount charged,closed
+7584,1344,,2024-02-02 14:42:00,shipping,delivered to wrong address,closed
+7482,3301,5556,2024-02-03 20:30:00,cancellation,please cancel my subscription,closed
+7279,1764,,2024-02-11 10:32:00,cancellation,cancel my box,pending
+7065,2468,5718,2024-02-12 22:13:00,damaged_item,journal cover torn,pending
+7414,3288,5699,2024-02-13 15:02:00,billing,charged twice??,closed
+7191,1722,,2024-02-13 16:07:00,cancellation,how do I cancel??,closed
+7060,1184,5660,2024-02-14 15:59:00,cancellation,cancel my box,closed
+7475,2966,,2024-02-15 18:18:00,damaged_item,serum leaked everywhere,closed
+7227,1552,5778,2024-02-17 19:29:00,cancellation,pause or cancel subscription,closed
+7596,1720,5787,2024-02-28 22:44:00,shipping,tracking hasn't updated in a week,open
+7456,2768,5861,2024-02-29 12:29:00,shipping,where is my box,closed
+7319,3361,5862,2024-03-05 15:00:00,billing,refund still not showing,closed
+7316,2655,5986,2024-03-10 13:33:00,shipping,delivered to wrong address,closed
+7501,2476,,2024-04-03 11:50:00,cancellation,cancel my box,closed
+7484,3317,,2024-04-23 17:27:00,other,can I change my scent preference,closed
+7197,3316,6315,2024-04-24 20:33:00,shipping,delivered to wrong address,closed
+7400,2184,,2024-04-25 09:04:00,other,gift a box to a friend?,closed
+7543,1720,6348,2024-04-25 21:14:00,cancellation,how do I cancel??,open
+7609,1637,,2024-04-28 12:11:00,cancellation,pause or cancel subscription,closed
+7290,3333,,2024-05-01 22:17:00,other,love this month's box!,closed
+7453,2875,6392,2024-05-03 18:08:00,billing,discount code didn't apply,closed
+7464,1220,,2024-05-04 16:26:00,other,gift a box to a friend?,open
+7153,1593,,2024-05-07 14:12:00,other,love this month's box!,closed
+7286,2952,6429,2024-05-07 21:26:00,billing,refund still not showing,closed
+7166,1129,6459,2024-05-10 09:59:00,shipping,where is my box,pending
+7577,2326,6552,2024-05-10 14:15:00,shipping,tracking hasn't updated in a week,pending
+7281,1367,,2024-05-11 17:49:00,other,love this month's box!,closed
+7112,2384,,2024-05-12 12:42:00,cancellation,pause or cancel subscription,closed
+7565,1007,6535,2024-05-13 13:44:00,damaged_item,box was crushed,closed
+7076,2341,,2024-05-14 15:19:00,damaged_item,box was crushed,closed
+7248,1313,,2024-05-17 11:18:00,damaged_item,candle arrived in four pieces,closed
+7616,3317,,2024-05-19 10:02:00,other,gift a box to a friend?,open
+7550,2082,6649,2024-05-21 08:35:00,damaged_item,journal cover torn,open
+7379,2544,,2024-05-28 21:26:00,other,love this month's box!,closed
+7390,3215,6750,2024-06-01 11:39:00,damaged_item,candle arrived in four pieces,closed
+7566,1835,6742,2024-06-03 17:53:00,billing,charged twice??,closed
+7407,1015,6908,2024-06-15 13:59:00,damaged_item,serum leaked everywhere,closed
+7296,2607,,2024-06-15 14:46:00,other,gift a box to a friend?,open
+7185,2391,7026,2024-07-01 11:44:00,cancellation,cancel my box,closed
+7013,2863,6962,2024-07-01 19:06:00,billing,charged twice??,closed
+7526,2411,7045,2024-07-03 20:32:00,shipping,tracking hasn't updated in a week,open
+7458,1344,7075,2024-07-05 10:47:00,shipping,where is my box,closed
+7321,1900,7019,2024-07-06 11:13:00,shipping,tracking hasn't updated in a week,closed
+7338,1551,7033,2024-07-08 08:08:00,cancellation,how do I cancel??,closed
+7104,1253,7179,2024-07-12 17:43:00,billing,charged twice??,closed
+7594,1678,7167,2024-07-13 16:11:00,shipping,tracking hasn't updated in a week,closed
+7452,2293,,2024-07-18 17:52:00,other,can I change my scent preference,pending
+7054,2863,7245,2024-07-19 21:41:00,cancellation,cancel my box,closed
+7232,1022,7234,2024-07-23 16:29:00,shipping,tracking hasn't updated in a week,closed
+7540,2332,7214,2024-07-24 10:59:00,shipping,delivered to wrong address,closed
+7291,2972,,2024-07-24 19:42:00,damaged_item,journal cover torn,closed
+7552,3333,7304,2024-07-25 19:51:00,damaged_item,candle arrived in four pieces,closed
+7537,1567,7313,2024-07-26 12:51:00,shipping,delivered to wrong address,closed
+7066,2972,7247,2024-07-26 16:40:00,billing,refund still not showing,closed
+7633,1053,,2024-07-30 15:37:00,damaged_item,candle arrived in four pieces,open
+7432,2072,,2024-08-01 18:04:00,cancellation,please cancel my subscription,closed
+7249,2596,7348,2024-08-05 12:08:00,shipping,tracking hasn't updated in a week,closed
+7637,3352,7398,2024-08-08 19:09:00,shipping,delivered to wrong address,closed
+7294,2175,7473,2024-08-12 11:21:00,damaged_item,box was crushed,closed
+7366,2605,,2024-08-14 17:26:00,other,gift a box to a friend?,closed
+7283,1623,,2024-08-14 19:55:00,other,love this month's box!,closed
+7149,2341,7488,2024-08-18 18:04:00,billing,discount code didn't apply,closed
+7634,2175,7473,2024-08-19 15:11:00,damaged_item,serum leaked everywhere,closed
+7256,3284,7494,2024-08-20 09:43:00,billing,wrong amount charged,closed
+7242,3017,7575,2024-08-21 20:08:00,damaged_item,candle arrived in four pieces,closed
+7606,2796,7570,2024-08-22 15:25:00,cancellation,pause or cancel subscription,closed
+7254,1722,7498,2024-08-22 16:06:00,shipping,delivered to wrong address,open
+7252,1362,7565,2024-08-29 21:04:00,shipping,tracking hasn't updated in a week,closed
+7525,2020,7623,2024-08-31 17:36:00,billing,charged twice??,closed
+7177,3015,7674,2024-09-02 15:24:00,cancellation,how do I cancel??,closed
+7131,3352,7723,2024-09-09 17:21:00,shipping,delivered to wrong address,closed
+7604,2386,,2024-09-12 22:36:00,shipping,tracking hasn't updated in a week,closed
+7547,2169,,2024-09-18 17:18:00,shipping,where is my box,closed
+7419,2796,7938,2024-09-22 09:29:00,damaged_item,serum leaked everywhere,closed
+7504,1650,,2024-09-22 11:36:00,other,can I change my scent preference,closed
+7140,2468,8113,2024-10-05 13:43:00,shipping,delivered to wrong address,closed
+7578,3165,8125,2024-10-06 18:29:00,cancellation,pause or cancel subscription,pending
+7078,2666,8018,2024-10-07 19:42:00,cancellation,please cancel my subscription,closed
+7170,3011,8070,2024-10-09 18:49:00,cancellation,cancel my box,closed
+7204,2191,8135,2024-10-14 13:18:00,cancellation,please cancel my subscription,closed
+7383,2585,,2024-10-28 20:43:00,billing,discount code didn't apply,closed
+7186,2748,8386,2024-11-06 09:08:00,cancellation,please cancel my subscription,pending
+7052,2156,,2024-11-06 11:08:00,billing,wrong amount charged,open
+7499,2748,8386,2024-11-08 17:03:00,damaged_item,serum leaked everywhere,closed
+7259,2175,,2024-11-09 18:14:00,other,can I change my scent preference,closed
+7332,2477,8511,2024-11-10 20:21:00,damaged_item,serum leaked everywhere,open
+7313,1482,,2024-11-11 20:42:00,damaged_item,box was crushed,closed
+7406,1023,,2024-11-15 11:36:00,shipping,delivered to wrong address,closed
+7497,3317,,2024-11-17 18:22:00,cancellation,cancel my box,closed
+7278,2034,8649,2024-11-23 15:20:00,damaged_item,candle arrived in four pieces,closed
+7027,2952,,2024-11-25 11:35:00,other,love this month's box!,closed
+7094,2953,8658,2024-11-27 11:04:00,damaged_item,journal cover torn,closed
+7412,2796,8624,2024-11-29 09:37:00,billing,wrong amount charged,closed
+7612,2184,8650,2024-11-29 15:26:00,cancellation,please cancel my subscription,pending
+7158,2678,8664,2024-11-30 20:08:00,shipping,where is my box,open
+7020,2747,8739,2024-12-02 16:17:00,cancellation,how do I cancel??,closed
+7333,1450,8832,2024-12-05 12:49:00,cancellation,cancel my box,pending
+7273,1812,,2024-12-07 14:48:00,other,can I change my scent preference,closed
+7253,1593,8745,2024-12-07 19:17:00,cancellation,how do I cancel??,closed
+7408,1306,,2024-12-10 10:07:00,other,can I change my scent preference,closed
+7361,1007,8784,2024-12-12 14:45:00,damaged_item,journal cover torn,closed
+7404,1036,,2024-12-13 11:09:00,cancellation,please cancel my subscription,closed
+7443,2058,,2024-12-13 19:11:00,shipping,delivered to wrong address,closed
+7563,3290,8924,2024-12-19 15:40:00,cancellation,pause or cancel subscription,pending
+7503,2826,,2024-12-23 10:45:00,damaged_item,serum leaked everywhere,open
+7192,3110,9036,2024-12-24 12:19:00,damaged_item,box was crushed,closed
+7200,1023,8948,2024-12-25 19:16:00,shipping,where is my box,closed
+7527,1926,8971,2024-12-26 18:43:00,damaged_item,candle arrived in four pieces,closed
+7154,2747,9108,2025-01-03 08:48:00,billing,refund still not showing,closed
+7447,2355,9119,2025-01-04 14:27:00,cancellation,how do I cancel??,closed
+7100,2948,9272,2025-01-12 14:17:00,damaged_item,serum leaked everywhere,open
+7353,2605,9250,2025-01-13 15:11:00,billing,discount code didn't apply,closed
+7277,2219,9244,2025-01-14 21:36:00,shipping,tracking hasn't updated in a week,closed
+7190,3142,9210,2025-01-15 13:12:00,billing,refund still not showing,closed
+7202,2970,,2025-01-17 18:52:00,shipping,where is my box,closed
+7221,2531,9356,2025-01-19 21:19:00,shipping,where is my box,open
+7610,2101,,2025-01-21 20:29:00,damaged_item,box was crushed,closed
+7222,2782,9358,2025-01-22 16:23:00,billing,discount code didn't apply,closed
+7129,3336,9283,2025-01-23 10:34:00,damaged_item,candle arrived in four pieces,open
+7498,1731,9267,2025-01-23 20:52:00,cancellation,please cancel my subscription,closed
+7224,2976,9414,2025-01-24 09:56:00,cancellation,how do I cancel??,pending
+7632,2782,,2025-01-28 13:53:00,damaged_item,candle arrived in four pieces,closed
+7325,3080,,2025-01-30 20:51:00,shipping,tracking hasn't updated in a week,open
+7139,1384,9503,2025-02-02 14:32:00,billing,refund still not showing,closed
+7442,2976,9414,2025-02-02 18:41:00,damaged_item,journal cover torn,closed
+7163,1740,9440,2025-02-02 19:02:00,billing,charged twice??,closed
+7183,2012,,2025-02-05 13:14:00,shipping,where is my box,closed
+7597,2966,9514,2025-02-07 21:56:00,billing,discount code didn't apply,closed
+7225,1176,9489,2025-02-09 19:38:00,cancellation,please cancel my subscription,pending
+7250,1054,9572,2025-02-14 14:27:00,cancellation,how do I cancel??,closed
+7522,2384,9778,2025-02-27 09:43:00,damaged_item,serum leaked everywhere,closed
+7477,1053,9756,2025-03-02 08:55:00,cancellation,how do I cancel??,closed
+7155,2835,,2025-03-05 15:40:00,other,can I change my scent preference,closed
+7355,2819,,2025-03-06 17:42:00,other,gift a box to a friend?,open
+7126,2791,9809,2025-03-07 18:36:00,damaged_item,serum leaked everywhere,pending
+7391,3159,9877,2025-03-12 11:33:00,damaged_item,candle arrived in four pieces,closed
+7132,1550,9893,2025-03-13 16:14:00,cancellation,please cancel my subscription,closed
+7389,1878,,2025-03-14 10:27:00,other,love this month's box!,closed
+7620,2165,9974,2025-03-16 21:21:00,billing,wrong amount charged,closed
+7310,2059,10070,2025-03-19 14:42:00,cancellation,pause or cancel subscription,closed
+7059,2232,,2025-03-21 18:08:00,other,can I change my scent preference,pending
+7488,1493,,2025-03-22 19:04:00,other,gift a box to a friend?,closed
+7309,1178,10054,2025-03-24 13:32:00,billing,charged twice??,closed
+7511,2845,,2025-03-26 18:55:00,billing,charged twice??,closed
+7021,1187,,2025-03-27 14:38:00,other,gift a box to a friend?,closed
+7513,1730,,2025-03-27 20:55:00,other,gift a box to a friend?,closed
+7621,3076,10093,2025-03-28 09:26:00,cancellation,please cancel my subscription,closed
+7386,3159,10240,2025-04-02 10:14:00,billing,discount code didn't apply,closed
+7297,2688,10289,2025-04-06 16:00:00,cancellation,pause or cancel subscription,closed
+7627,2857,10245,2025-04-08 10:35:00,cancellation,please cancel my subscription,open
+7220,3006,10360,2025-04-13 19:07:00,cancellation,how do I cancel??,closed
+7167,2615,10323,2025-04-14 12:26:00,damaged_item,candle arrived in four pieces,closed
+7099,2858,10429,2025-04-16 12:17:00,cancellation,please cancel my subscription,closed
+7090,2167,10413,2025-04-18 11:48:00,damaged_item,candle arrived in four pieces,closed
+7411,2605,,2025-04-18 19:21:00,other,can I change my scent preference,closed
+7586,2654,10355,2025-04-20 14:14:00,shipping,delivered to wrong address,closed
+7607,2934,,2025-04-21 13:27:00,billing,charged twice??,closed
+7397,2298,10428,2025-04-26 17:29:00,cancellation,pause or cancel subscription,closed
+7580,3092,10538,2025-04-27 14:41:00,billing,wrong amount charged,closed
+7330,2355,10610,2025-05-01 10:31:00,billing,charged twice??,closed
+7061,1690,,2025-05-01 20:06:00,other,love this month's box!,closed
+7365,2012,10545,2025-05-02 14:29:00,cancellation,how do I cancel??,pending
+7212,2976,10571,2025-05-03 13:25:00,damaged_item,serum leaked everywhere,closed
+7171,1159,,2025-05-03 14:49:00,other,can I change my scent preference,closed
+7589,3293,10647,2025-05-03 22:30:00,shipping,where is my box,closed
+7388,1384,,2025-05-05 10:36:00,other,can I change my scent preference,closed
+7556,2480,,2025-05-05 11:19:00,cancellation,how do I cancel??,closed
+7329,2504,10566,2025-05-05 15:05:00,cancellation,pause or cancel subscription,closed
+7587,2231,,2025-05-08 20:13:00,billing,charged twice??,closed
+7276,2454,10618,2025-05-10 13:22:00,shipping,tracking hasn't updated in a week,open
+7274,2399,10656,2025-05-12 11:15:00,cancellation,cancel my box,pending
+7172,2514,10718,2025-05-13 17:36:00,cancellation,please cancel my subscription,closed
+7506,3167,10903,2025-05-23 12:00:00,cancellation,cancel my box,closed
+7165,1720,10805,2025-05-24 13:37:00,shipping,where is my box,closed
+7402,1316,,2025-05-25 12:10:00,other,gift a box to a friend?,closed
+7335,3163,11077,2025-06-06 20:51:00,cancellation,please cancel my subscription,closed
+7045,1065,11044,2025-06-07 12:41:00,cancellation,please cancel my subscription,closed
+7075,2058,,2025-06-09 08:28:00,shipping,tracking hasn't updated in a week,closed
+7043,2966,11028,2025-06-09 10:47:00,shipping,where is my box,closed
+7567,1428,11146,2025-06-12 21:45:00,shipping,tracking hasn't updated in a week,closed
+7349,1952,11066,2025-06-13 14:04:00,shipping,delivered to wrong address,closed
+7169,1791,11165,2025-06-14 16:13:00,cancellation,please cancel my subscription,closed
+7023,2605,11173,2025-06-20 15:35:00,damaged_item,journal cover torn,closed
+7282,2906,11312,2025-06-23 08:35:00,shipping,delivered to wrong address,closed
+7235,2399,11445,2025-07-05 08:52:00,damaged_item,serum leaked everywhere,closed
+7292,2072,11358,2025-07-05 20:56:00,cancellation,how do I cancel??,closed
+7422,3154,11457,2025-07-05 21:33:00,billing,wrong amount charged,closed
+7022,1255,11393,2025-07-06 12:12:00,cancellation,cancel my box,closed
+7571,1787,,2025-07-07 17:39:00,other,can I change my scent preference,open
+7168,1327,11426,2025-07-08 13:22:00,shipping,tracking hasn't updated in a week,closed
+7429,1171,,2025-07-09 12:09:00,other,gift a box to a friend?,open
+7108,2966,11456,2025-07-09 15:32:00,shipping,where is my box,closed
+7613,2660,11490,2025-07-09 20:37:00,cancellation,cancel my box,pending
+7207,1984,11545,2025-07-10 10:19:00,damaged_item,journal cover torn,open
+7377,1752,11487,2025-07-13 13:06:00,cancellation,cancel my box,closed
+7280,1493,11559,2025-07-15 21:28:00,cancellation,please cancel my subscription,closed
+7440,2929,,2025-07-18 16:21:00,cancellation,cancel my box,closed
+7308,2607,11538,2025-07-18 22:14:00,damaged_item,serum leaked everywhere,pending
+7523,1190,11556,2025-07-20 19:32:00,cancellation,pause or cancel subscription,closed
+7463,2794,11583,2025-07-21 11:01:00,billing,wrong amount charged,pending
+7630,3296,11647,2025-07-22 09:11:00,billing,wrong amount charged,closed
+7538,3295,11772,2025-07-24 19:54:00,billing,discount code didn't apply,closed
+7115,1329,,2025-07-27 14:12:00,shipping,tracking hasn't updated in a week,closed
+7640,2285,11893,2025-08-05 15:31:00,cancellation,please cancel my subscription,pending
+7247,1079,11938,2025-08-07 09:10:00,cancellation,how do I cancel??,closed
+7581,2895,,2025-08-10 11:35:00,shipping,tracking hasn't updated in a week,closed
+7354,1019,11845,2025-08-10 22:10:00,cancellation,how do I cancel??,closed
+7151,1306,11932,2025-08-11 19:25:00,cancellation,cancel my box,closed
+7387,2514,11944,2025-08-11 21:33:00,cancellation,cancel my box,pending
+7409,1550,11889,2025-08-13 15:33:00,cancellation,please cancel my subscription,pending
+7019,3340,12014,2025-08-19 11:24:00,billing,discount code didn't apply,open
+7148,2858,12065,2025-08-22 20:36:00,cancellation,pause or cancel subscription,closed
+7257,1520,12121,2025-08-25 22:49:00,shipping,tracking hasn't updated in a week,closed
+7182,2330,,2025-08-30 09:42:00,cancellation,please cancel my subscription,pending
+7631,1176,12240,2025-08-31 19:39:00,cancellation,pause or cancel subscription,closed
+7230,1617,12353,2025-09-07 12:50:00,shipping,delivered to wrong address,closed
+7381,3058,12237,2025-09-08 12:09:00,damaged_item,serum leaked everywhere,closed
+7518,1302,12299,2025-09-12 12:23:00,cancellation,how do I cancel??,pending
+7410,2019,12314,2025-09-13 21:18:00,billing,charged twice??,pending
+7181,1074,12324,2025-09-14 10:54:00,billing,wrong amount charged,closed
+7423,2318,12346,2025-09-14 10:59:00,billing,charged twice??,closed
+7178,1636,12426,2025-09-14 17:35:00,shipping,where is my box,closed
+7097,1005,12322,2025-09-14 17:52:00,billing,wrong amount charged,closed
+7568,3147,12399,2025-09-15 22:45:00,billing,wrong amount charged,closed
+7142,2109,12418,2025-09-16 16:51:00,cancellation,pause or cancel subscription,closed
+7470,2167,,2025-09-16 17:21:00,damaged_item,journal cover torn,closed
+7358,1926,12440,2025-09-20 13:36:00,billing,refund still not showing,open
+7063,2948,12397,2025-09-21 11:47:00,cancellation,cancel my box,closed
+7635,1338,12472,2025-09-22 11:44:00,cancellation,cancel my box,closed
+7371,1961,,2025-09-27 19:40:00,shipping,tracking hasn't updated in a week,open
+7625,1255,12610,2025-09-30 16:11:00,damaged_item,journal cover torn,pending
+7029,3276,12672,2025-10-04 11:19:00,shipping,tracking hasn't updated in a week,open
+7081,1278,12728,2025-10-10 22:20:00,cancellation,please cancel my subscription,closed
+7483,3170,12843,2025-10-14 14:00:00,cancellation,how do I cancel??,open
+7303,2167,12809,2025-10-16 19:06:00,cancellation,how do I cancel??,open
+7364,2796,12842,2025-10-19 10:01:00,cancellation,pause or cancel subscription,closed
+7098,1237,12908,2025-10-21 14:08:00,shipping,where is my box,closed
+7623,2936,12944,2025-10-21 14:51:00,cancellation,pause or cancel subscription,closed
+7314,1375,12919,2025-10-22 19:26:00,damaged_item,serum leaked everywhere,open
+7011,3141,12969,2025-10-22 21:28:00,cancellation,cancel my box,open
+7510,2205,,2025-10-23 12:08:00,cancellation,pause or cancel subscription,closed
+7110,2239,12963,2025-10-25 12:34:00,damaged_item,box was crushed,pending
+7352,2556,12902,2025-10-28 17:59:00,cancellation,cancel my box,closed
+7598,2331,13008,2025-10-29 08:00:00,damaged_item,journal cover torn,closed
+7480,2997,,2025-10-30 21:29:00,other,love this month's box!,closed
+7058,2722,13106,2025-11-06 12:27:00,shipping,tracking hasn't updated in a week,closed
+7120,2772,13174,2025-11-07 16:48:00,shipping,delivered to wrong address,closed
+7269,1666,13087,2025-11-09 19:33:00,cancellation,cancel my box,closed
+7345,1049,13115,2025-11-10 13:29:00,damaged_item,candle arrived in four pieces,closed
+7034,1195,,2025-11-11 13:13:00,other,can I change my scent preference,closed
+7614,1882,,2025-11-26 08:43:00,other,can I change my scent preference,closed
+7106,1375,13338,2025-11-28 09:23:00,cancellation,pause or cancel subscription,open
+7030,2370,13471,2025-12-03 13:59:00,damaged_item,box was crushed,closed
+7595,1521,13514,2025-12-03 15:39:00,billing,refund still not showing,open
+7130,2722,13523,2025-12-03 16:18:00,damaged_item,journal cover torn,closed
+7558,3362,13496,2025-12-04 14:10:00,cancellation,cancel my box,closed
+7363,3371,13527,2025-12-04 22:42:00,billing,refund still not showing,closed
+7331,2688,,2025-12-07 18:49:00,other,can I change my scent preference,closed
+7468,1547,13515,2025-12-09 11:26:00,billing,charged twice??,closed
+7201,1317,13562,2025-12-11 15:17:00,cancellation,pause or cancel subscription,pending
+7588,3395,13601,2025-12-12 12:42:00,damaged_item,serum leaked everywhere,closed
+7069,2113,13579,2025-12-13 18:11:00,billing,discount code didn't apply,closed
+7579,1408,13655,2025-12-16 08:25:00,damaged_item,journal cover torn,closed
+7016,3296,13653,2025-12-16 09:31:00,damaged_item,journal cover torn,closed
+7147,1730,,2025-12-18 17:43:00,billing,charged twice??,open
+7520,1491,13755,2025-12-19 12:20:00,shipping,tracking hasn't updated in a week,closed
+7041,2000,13674,2025-12-21 19:20:00,cancellation,pause or cancel subscription,open
+7639,2776,13810,2025-12-22 10:17:00,damaged_item,journal cover torn,closed
+7347,3069,,2025-12-26 09:11:00,damaged_item,serum leaked everywhere,pending
+7032,1600,,2025-12-26 10:31:00,other,love this month's box!,closed
+7067,1792,,2025-12-31 09:52:00,other,love this month's box!,closed
+7083,3161,13967,2026-01-03 09:32:00,billing,wrong amount charged,closed
+7160,2587,13978,2026-01-04 16:11:00,cancellation,how do I cancel??,open
+7403,2113,14002,2026-01-05 21:39:00,billing,refund still not showing,pending
+7524,3047,14094,2026-01-11 14:27:00,damaged_item,candle arrived in four pieces,closed
+7489,2165,,2026-01-13 14:50:00,damaged_item,box was crushed,closed
+7101,3336,14055,2026-01-14 08:15:00,damaged_item,box was crushed,closed
+7091,2702,14038,2026-01-14 10:13:00,billing,wrong amount charged,closed
+7208,3047,14094,2026-01-16 13:38:00,damaged_item,candle arrived in four pieces,closed
+7582,1338,14144,2026-01-18 13:17:00,billing,discount code didn't apply,closed
+7494,1342,14175,2026-01-19 17:28:00,billing,refund still not showing,closed
+7560,1187,14141,2026-01-22 08:11:00,cancellation,please cancel my subscription,closed
+7015,3387,,2026-01-22 12:29:00,other,can I change my scent preference,closed
+7405,1187,14141,2026-01-26 21:36:00,billing,discount code didn't apply,pending
+7575,1295,14323,2026-01-28 09:31:00,shipping,delivered to wrong address,closed
+7203,2201,,2026-01-29 10:45:00,damaged_item,journal cover torn,pending
+7495,2294,14418,2026-02-03 08:21:00,damaged_item,journal cover torn,closed
+7218,2165,14417,2026-02-03 11:17:00,shipping,tracking hasn't updated in a week,pending
+7188,1895,14341,2026-02-05 14:57:00,cancellation,how do I cancel??,closed
+7305,1997,14325,2026-02-05 17:15:00,billing,discount code didn't apply,closed
+7079,1890,,2026-02-12 20:09:00,damaged_item,box was crushed,closed
+7608,3353,,2026-02-15 13:11:00,cancellation,pause or cancel subscription,pending
+7418,2042,14557,2026-02-16 19:55:00,billing,charged twice??,closed
+7322,1600,14669,2026-02-20 21:01:00,shipping,where is my box,closed
+7089,1683,14633,2026-02-21 12:27:00,shipping,delivered to wrong address,closed
+7038,1828,14689,2026-02-21 16:59:00,shipping,where is my box,open
+7573,2565,14707,2026-02-22 15:35:00,cancellation,how do I cancel??,closed
+7046,3279,14561,2026-02-23 12:52:00,damaged_item,serum leaked everywhere,closed
+7344,2351,14678,2026-03-01 22:02:00,cancellation,please cancel my subscription,closed
+7035,2119,14844,2026-03-04 08:22:00,shipping,delivered to wrong address,closed
+7360,2606,14830,2026-03-04 11:43:00,cancellation,please cancel my subscription,closed
+7228,1585,14775,2026-03-05 13:04:00,damaged_item,candle arrived in four pieces,closed
+7105,3102,14754,2026-03-06 12:35:00,cancellation,please cancel my subscription,closed
+7317,1858,14841,2026-03-07 13:24:00,damaged_item,box was crushed,closed
+7042,2385,,2026-03-07 22:03:00,shipping,where is my box,closed
+7348,2270,,2026-03-07 22:09:00,cancellation,cancel my box,closed
+7462,3342,,2026-03-09 14:04:00,cancellation,please cancel my subscription,closed
+7051,3129,14971,2026-03-12 14:51:00,shipping,delivered to wrong address,closed
+7465,3386,14931,2026-03-14 18:54:00,shipping,tracking hasn't updated in a week,closed
+7359,3325,,2026-03-15 08:41:00,other,love this month's box!,closed
+7528,2842,,2026-04-04 15:14:00,damaged_item,candle arrived in four pieces,closed
+7326,1295,15192,2026-04-05 17:57:00,damaged_item,box was crushed,closed
+7111,1791,15348,2026-04-07 10:02:00,shipping,delivered to wrong address,open
+7334,3348,15359,2026-04-08 16:20:00,cancellation,please cancel my subscription,pending
+7311,3242,,2026-04-14 16:46:00,damaged_item,candle arrived in four pieces,closed
+7576,2306,15471,2026-04-15 21:07:00,billing,charged twice??,closed
+7342,1984,,2026-04-16 10:38:00,damaged_item,candle arrived in four pieces,closed
+7534,2948,15401,2026-04-16 15:25:00,damaged_item,box was crushed,closed
+7562,1358,15463,2026-04-16 22:11:00,shipping,where is my box,closed
+7312,2906,,2026-04-17 13:16:00,billing,refund still not showing,closed
+7600,3303,,2026-04-21 13:42:00,billing,discount code didn't apply,closed
+7239,1358,,2026-04-22 10:54:00,other,love this month's box!,pending
+7459,2287,15506,2026-04-26 22:26:00,cancellation,cancel my box,closed
+7144,1396,15659,2026-04-27 13:48:00,billing,discount code didn't apply,closed
+7040,1191,15601,2026-04-29 14:14:00,damaged_item,candle arrived in four pieces,closed
+7318,2714,,2026-04-30 12:41:00,cancellation,please cancel my subscription,closed
+7427,1222,,2026-04-30 13:51:00,other,love this month's box!,pending
+7441,1425,15709,2026-05-04 09:27:00,cancellation,pause or cancel subscription,closed
+7444,2939,,2026-05-04 09:29:00,shipping,delivered to wrong address,pending
+7214,1359,,2026-05-05 17:26:00,damaged_item,box was crushed,closed
+7002,1550,15691,2026-05-07 11:11:00,billing,charged twice??,closed
+7246,1566,15774,2026-05-10 10:13:00,cancellation,how do I cancel??,closed
+7394,2465,15870,2026-05-11 12:58:00,damaged_item,candle arrived in four pieces,open
+7243,2483,,2026-05-11 17:25:00,billing,wrong amount charged,closed
+7244,2911,15759,2026-05-11 21:21:00,damaged_item,box was crushed,pending
+7323,2129,15846,2026-05-15 22:55:00,cancellation,cancel my box,closed
+7492,2320,,2026-05-20 13:16:00,shipping,delivered to wrong address,closed
+7373,3303,15990,2026-05-25 11:45:00,cancellation,cancel my box,closed
+7445,1910,15947,2026-05-25 19:57:00,shipping,tracking hasn't updated in a week,closed
+7514,2193,16110,2026-05-26 20:08:00,cancellation,cancel my box,closed
+7194,2828,16141,2026-05-28 21:42:00,damaged_item,serum leaked everywhere,closed
+7195,2978,,2026-05-31 11:24:00,cancellation,please cancel my subscription,pending
+7385,1684,16235,2026-06-02 19:46:00,billing,refund still not showing,closed
+7509,1493,16269,2026-06-07 12:27:00,billing,wrong amount charged,closed
+7451,3386,16354,2026-06-08 13:30:00,shipping,delivered to wrong address,closed
+7107,1168,16386,2026-06-12 21:04:00,damaged_item,journal cover torn,closed
+7343,1976,,2026-06-12 22:07:00,cancellation,cancel my box,closed
+7636,2560,16394,2026-06-14 15:01:00,billing,refund still not showing,closed
+7119,3351,16508,2026-06-17 09:13:00,cancellation,cancel my box,closed
+7134,2201,16587,2026-06-22 19:31:00,billing,discount code didn't apply,closed
+7446,2861,16504,2026-06-23 20:24:00,cancellation,please cancel my subscription,pending
+7434,1887,16479,2026-06-26 13:10:00,cancellation,pause or cancel subscription,pending
+7146,2835,16560,2026-06-27 08:08:00,cancellation,cancel my box,open
+7539,1770,16579,2026-07-01 15:08:00,damaged_item,box was crushed,closed
+7044,1652,16641,2026-07-02 17:47:00,damaged_item,candle arrived in four pieces,closed
+7473,1427,16694,2026-07-03 18:32:00,cancellation,cancel my box,closed
+7103,2565,16605,2026-07-04 08:27:00,damaged_item,box was crushed,pending
+7375,3269,16636,2026-07-04 10:21:00,cancellation,how do I cancel??,pending
+7018,1239,16673,2026-07-06 13:27:00,cancellation,please cancel my subscription,open
+7287,1493,16783,2026-07-07 13:21:00,cancellation,pause or cancel subscription,closed
+7141,2943,16793,2026-07-09 13:03:00,damaged_item,journal cover torn,closed
+7324,1606,16710,2026-07-11 16:03:00,shipping,delivered to wrong address,closed
+7231,1856,,2026-07-13 15:45:00,damaged_item,journal cover torn,closed
+7327,1190,,2026-07-13 22:46:00,shipping,delivered to wrong address,closed
+7053,2111,16952,2026-07-14 20:56:00,cancellation,how do I cancel??,closed
+7179,2323,16885,2026-07-17 13:51:00,shipping,tracking hasn't updated in a week,closed
+7213,1131,16946,2026-07-17 16:18:00,billing,charged twice??,closed
+7268,2954,17012,2026-07-18 10:59:00,shipping,delivered to wrong address,closed
+7569,1491,17036,2026-07-19 14:34:00,damaged_item,box was crushed,open
+7605,1676,17018,2026-07-19 20:46:00,shipping,delivered to wrong address,closed
+7219,2482,17009,2026-07-20 21:25:00,shipping,tracking hasn't updated in a week,open
+7541,1676,17018,2026-07-23 22:32:00,damaged_item,box was crushed,closed
+7039,3083,16990,2026-07-24 15:35:00,cancellation,please cancel my subscription,closed
+7288,1953,,2026-07-25 09:36:00,shipping,where is my box,open
+7479,3133,17103,2026-07-27 12:04:00,shipping,where is my box,open
+7199,2471,17083,2026-07-27 19:21:00,shipping,tracking hasn't updated in a week,pending
+7093,1119,,2026-07-31 19:07:00,shipping,tracking hasn't updated in a week,closed
+7008,1119,,2026-07-31 19:22:00,other,love this month's box!,closed
+7123,1997,17181,2026-08-01 20:47:00,shipping,delivered to wrong address,pending
+7618,1615,17228,2026-08-01 21:59:00,billing,discount code didn't apply,closed
+7004,2434,17255,2026-08-02 22:26:00,billing,discount code didn't apply,closed
+7237,3120,,2026-08-03 17:11:00,other,can I change my scent preference,closed
+7270,2458,17165,2026-08-04 13:08:00,cancellation,please cancel my subscription,closed
+7535,1339,17298,2026-08-04 15:52:00,cancellation,how do I cancel??,closed
+7025,2516,17216,2026-08-06 13:23:00,damaged_item,box was crushed,pending
+7082,2474,,2026-08-10 13:19:00,shipping,where is my box,closed
+7026,2231,,2026-08-11 18:56:00,cancellation,please cancel my subscription,closed
+7121,3325,,2026-08-13 13:24:00,other,can I change my scent preference,open
+7367,1910,17455,2026-08-14 16:10:00,cancellation,pause or cancel subscription,closed
+7549,1689,17316,2026-08-14 18:17:00,billing,wrong amount charged,pending
+7448,1853,17336,2026-08-15 15:50:00,cancellation,cancel my box,closed
+7145,2861,17472,2026-08-18 12:05:00,damaged_item,journal cover torn,closed
+7545,2917,17361,2026-08-18 21:34:00,damaged_item,candle arrived in four pieces,pending
+7553,1769,17429,2026-08-19 13:20:00,cancellation,pause or cancel subscription,closed
+7603,1241,17406,2026-08-20 12:59:00,shipping,where is my box,closed
+7136,2017,17456,2026-08-20 14:35:00,shipping,delivered to wrong address,closed
+7174,2588,17607,2026-08-24 21:39:00,billing,discount code didn't apply,closed
+7356,2608,17630,2026-08-25 19:58:00,cancellation,please cancel my subscription,closed
+7261,2355,17589,2026-08-28 10:50:00,cancellation,cancel my box,open
+7133,2532,17644,2026-09-02 09:12:00,shipping,where is my box,open
+7064,2783,,2026-09-02 10:03:00,other,love this month's box!,closed
+7384,1749,,2026-09-04 13:29:00,other,can I change my scent preference,open
+7450,1547,17696,2026-09-05 09:51:00,damaged_item,journal cover torn,closed
+7546,3163,17685,2026-09-05 11:05:00,cancellation,how do I cancel??,pending
+7184,2474,17862,2026-09-06 17:39:00,shipping,delivered to wrong address,closed
+7346,2623,17910,2026-09-09 11:46:00,shipping,tracking hasn't updated in a week,pending
+7398,2488,,2026-09-10 19:17:00,shipping,tracking hasn't updated in a week,closed
+7157,1689,17855,2026-09-13 21:14:00,cancellation,pause or cancel subscription,closed
+7164,1269,17853,2026-09-16 19:17:00,cancellation,pause or cancel subscription,open
+7084,2340,18032,2026-09-16 22:29:00,shipping,tracking hasn't updated in a week,closed
+7234,2496,17929,2026-09-17 11:52:00,billing,discount code didn't apply,closed
+7102,1839,18065,2026-09-18 21:57:00,shipping,where is my box,closed
+7159,3150,17975,2026-09-20 08:14:00,cancellation,pause or cancel subscription,pending
+7005,1939,18048,2026-09-20 10:16:00,billing,discount code didn't apply,closed
+7012,2604,18090,2026-09-21 12:38:00,cancellation,please cancel my subscription,closed
+7500,1270,18155,2026-09-24 20:31:00,billing,wrong amount charged,closed
+7431,1517,,2026-09-29 13:45:00,cancellation,cancel my box,open
+7435,3183,18079,2026-09-29 22:31:00,billing,wrong amount charged,closed
+7205,2738,,2026-09-30 16:52:00,damaged_item,serum leaked everywhere,closed
+7337,2722,18209,2026-10-02 12:27:00,damaged_item,candle arrived in four pieces,closed
+7516,2428,18147,2026-10-02 15:22:00,cancellation,how do I cancel??,closed
+7306,2294,18302,2026-10-03 09:27:00,cancellation,how do I cancel??,closed
+7420,2231,18243,2026-10-03 12:32:00,cancellation,cancel my box,pending
+7471,2381,18161,2026-10-03 13:43:00,cancellation,how do I cancel??,closed
+7118,2429,18362,2026-10-05 12:50:00,damaged_item,serum leaked everywhere,closed
+7109,2440,,2026-10-08 10:21:00,cancellation,how do I cancel??,pending
+7559,2990,18387,2026-10-10 11:23:00,shipping,where is my box,pending
+7175,2960,18311,2026-10-11 20:29:00,billing,refund still not showing,pending
+7216,2242,,2026-10-12 21:14:00,damaged_item,candle arrived in four pieces,closed
+7392,3083,18561,2026-10-16 14:59:00,billing,discount code didn't apply,closed
+7236,1738,18539,2026-10-17 09:37:00,damaged_item,box was crushed,closed
+7415,1292,18408,2026-10-17 15:11:00,damaged_item,serum leaked everywhere,closed
+7050,1418,,2026-10-19 15:08:00,cancellation,pause or cancel subscription,closed
+7624,3363,18480,2026-10-20 08:09:00,billing,refund still not showing,closed
+7438,2089,18666,2026-10-21 21:24:00,damaged_item,candle arrived in four pieces,closed
+7180,2158,,2026-10-22 11:35:00,cancellation,please cancel my subscription,closed
+7209,2974,,2026-10-23 20:57:00,cancellation,please cancel my subscription,closed
+7574,1058,18534,2026-10-25 16:33:00,cancellation,cancel my box,closed
+7421,2449,18631,2026-10-28 12:03:00,cancellation,pause or cancel subscription,closed
+7413,2957,18764,2026-10-28 21:52:00,cancellation,how do I cancel??,pending
+7417,1737,18814,2026-10-29 15:33:00,damaged_item,serum leaked everywhere,closed
+7135,2953,18695,2026-10-29 18:45:00,shipping,delivered to wrong address,closed
+7033,3084,,2026-10-31 11:00:00,shipping,tracking hasn't updated in a week,closed
+7255,2688,,2026-10-31 12:00:00,cancellation,how do I cancel??,closed
+7615,2275,18758,2026-10-31 14:00:00,cancellation,how do I cancel??,closed
+7551,1222,18769,2026-10-31 16:00:00,billing,refund still not showing,closed
+7009,2089,18666,2026-10-31 17:42:00,damaged_item,box was crushed,closed
+7128,2129,18757,2026-10-31 17:52:00,cancellation,how do I cancel??,closed
+7077,1319,18832,2026-10-31 20:13:00,cancellation,how do I cancel??,closed
+7304,3163,18785,2026-10-31 21:00:00,billing,wrong amount charged,closed
