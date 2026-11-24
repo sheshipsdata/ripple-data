@@ -25,7 +25,7 @@ You should see five row counts and **✅ Ripple is ready**.
 
 Open the Colab escape hatch to explore the data in your browser tonight, with nothing to install. It doesn't save your work, so come back to Codespaces when you're ready.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RIPPLE-OWNER/ripple-data/blob/main/notebooks/exercise-01-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sheshipsdata/ripple-data/blob/main/notebooks/exercise-01-colab.ipynb)
 
 ## What's in here
 
